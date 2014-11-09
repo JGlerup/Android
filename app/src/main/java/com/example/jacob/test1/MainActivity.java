@@ -42,7 +42,6 @@ public class MainActivity extends Activity {
         if (id == R.id.action_search) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
